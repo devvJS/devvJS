@@ -14,7 +14,7 @@ I'm a full stack software engineer and aspiring content creator just trying to m
   <p align="center">
     <a href="https://www.linkedin.com/in/dkc86/">
     <a href="https://buymeacoffee.com/devvjs">
-    <a href="">
+    <!-- <a href=""> -->
   </p>
 
 <!--
