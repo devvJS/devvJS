@@ -3,7 +3,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/demo/?font=Amatic+SC&weight=700&size=32&color=B0F702&lines=Dad%2FDeveloper%2FCoffee+nerd;Five+years+of+development+experience;I+hyperfocus+on+the+things+that+I+love>
+
   </a>
 </p>
 
@@ -13,7 +13,10 @@ I'm a full stack software engineer and aspiring content creator just trying to m
 
   <p align="center">
     <a href="https://www.linkedin.com/in/dkc86/">
+    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://imgur.com/bEksUEO"/></a>
     <a href="https://buymeacoffee.com/devvjs">
+      <img width="32px" alt="buyMeACoffee" title="Coffee" src="https://imgur.com/MGhuaTX"/>
+    </a>
     <!-- <a href=""> -->
   </p>
 
@@ -31,3 +34,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Sources:
+<a href="https://iconscout.com/icons/coffee-cup" class="text-underline font-size-sm" target="_blank">Coffee Cup</a> by <a href="https://iconscout.com/contributors/royyanwijaya" class="text-underline font-size-sm">Royyan Wijaya</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>
