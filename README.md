@@ -22,7 +22,10 @@ I'm a full stack software engineer and aspiring content creator just trying to m
 
 ---
 
-### Languages and Tools
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Amatic+SC&weight=700&size=32&pause=1000&color=FFDE59&center=true&width=435&lines=Languages+and+Tools;" alt="Typing SVG" /></a>
+</p>
 <p align="center">
   <img width="30px" align="left" alt="Javascript" style="padding-right:10px; background-color:#FFDE59;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" >
 <img width="30px" align="left" alt="React" style="padding-right:10px; background-color:#FFDE59;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
@@ -47,6 +50,9 @@ I'm a full stack software engineer and aspiring content creator just trying to m
 </p>
 
 <br/>
+<br/>
+
+---
 
 #
 
