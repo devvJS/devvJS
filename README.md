@@ -13,9 +13,11 @@ I'm a full stack software engineer and aspiring content creator just trying to m
 
   <p align="center">
     <a href="https://www.linkedin.com/in/dkc86/">
-    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://imgur.com/bEksUEO"/></a>
+      <img width="128px" alt="LinkedIn" title="LinkedIn" src="https://imgur.com/bEksUEO.png"/>
+    </a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://buymeacoffee.com/devvjs">
-      <img width="32px" alt="buyMeACoffee" title="Coffee" src="https://imgur.com/MGhuaTX"/>
+      <img width="128px" alt="buyMeACoffee" title="Coffee" src="https://imgur.com/MGhuaTX.png"/>
     </a>
     <!-- <a href=""> -->
   </p>
