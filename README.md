@@ -21,7 +21,8 @@ I'm a full stack software engineer and aspiring content creator just trying to m
 </p>
 
 ### Languages and Tools
-<img width="30px" align="left" alt="Javascript" style="padding-right:10px; background-color:#FFDE59;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" >
+<p align="center">
+  <img width="30px" align="left" alt="Javascript" style="padding-right:10px; background-color:#FFDE59;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" >
 <img width="30px" align="left" alt="React" style="padding-right:10px; background-color:#FFDE59;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
 <img width="30px" align="left" alt="Angular" style="padding-right:10px; background-color:#FFDE59;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
 <img width="30px" align="left" alt="Java" style="padding-right:10px; background-color:#FFDE59;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg">
@@ -41,7 +42,8 @@ I'm a full stack software engineer and aspiring content creator just trying to m
 <img width="30px" align="left" alt="AfterEffects" style="padding-right:10px; background-color:#FFDE59;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg">
 <img width="30px" align="left" alt="Illustrator" style="padding-right:10px; background-color:#FFDE59;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg">
 <img width="30px" align="left" alt="Canva" style="padding-right:10px; background-color:#FFDE59;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg">
+</p>
 
-
+<br/>
 Sources:
 <a href="https://iconscout.com/icons/coffee-cup" class="text-underline font-size-sm" target="_blank">Coffee Cup</a> by <a href="https://iconscout.com/contributors/royyanwijaya" class="text-underline font-size-sm">Royyan Wijaya</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>
