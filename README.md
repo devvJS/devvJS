@@ -15,7 +15,7 @@ I'm a full stack software engineer and aspiring content creator just trying to m
     <img width="128px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/7ziNQJ3.png"/>
   </a>
   <a href="https://buymeacoffee.com/devvjs">
-    <img width="128px" alt="buyMeACoffee" title="Coffee" src="https://imgur.com/MGhuaTX.png"/>
+    <img width="128px" alt="buyMeACoffee" title="Coffee" src="https://i.imgur.com/XZy4ksY.png"/>
   </a>
   <a href="https://buymeacoffee.com/devvjs">
     <img width="128px" alt="buyMeACoffee" title="Coffee" src="https://imgur.com/MGhuaTX.png"/>
