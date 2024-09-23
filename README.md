@@ -15,7 +15,6 @@ I'm a full stack software engineer and aspiring content creator just trying to m
     <a href="https://www.linkedin.com/in/dkc86/">
       <img width="128px" alt="LinkedIn" title="LinkedIn" src="https://imgur.com/bEksUEO.png"/>
     </a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://buymeacoffee.com/devvjs">
       <img width="128px" alt="buyMeACoffee" title="Coffee" src="https://imgur.com/MGhuaTX.png"/>
     </a>
