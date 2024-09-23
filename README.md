@@ -21,7 +21,7 @@ I'm a full stack software engineer and aspiring content creator just trying to m
 </p>
 
 ### Languages and Tools
-<img width="30px" align="left" alt="Javascript" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" >
+<img width="30px" align="left" alt="Javascript" style="padding-right:10px, background-color:'FFDE59';" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" >
 <img width="30px" align="left" alt="React" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
 <img width="30px" align="left" alt="Angular" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-plain.svg">
 <img width="30px" align="left" alt="Java" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg">
