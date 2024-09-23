@@ -29,7 +29,6 @@ I'm a full stack software engineer and aspiring content creator just trying to m
 <p align="center">
   <img width="30px" align="left" alt="Javascript" style="padding-right:10px; background-color:#FFDE59;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" >
   <img width="30px" align="left" alt="React" style="padding-right:10px; background-color:#FFDE59;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-  <img width="30px" align="left" alt="Angular" style="padding-right:10px; background-color:#FFDE59;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
   <img width="30px" align="left" alt="Cypress" style="padding-right:10px; background-color:#FFDE59;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg">
   <img width="30px" align="left" alt="postgresQl" style="padding-right:10px; background-color:#FFDE59;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg">
   <img width="30px" align="left" alt="graphQL" style="padding-right:10px; background-color:#FFDE59;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg">
