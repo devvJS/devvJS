@@ -1,4 +1,3 @@
-[img]https://i.imgur.com/kD1lzLL.png[/img]
 <p align="center">
   <a href="">
     <img src="https://i.imgur.com/kD1lzLL.png" alt="Header logo">
