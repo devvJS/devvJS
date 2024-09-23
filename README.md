@@ -11,13 +11,13 @@
 I'm a full stack software engineer and aspiring content creator just trying to make my own digital footprints in that 'hello world' sandbox...get it? Ok enough of with the poorly executed dad jokes. I take my development steps serious from analysis->design->implementation->review all stemming with a core basis of agile idealogies
 
 <p align="center">
+  <a href="https://x.com/_therealdevv_"><img width="64px" alt="buyMeACoffee" title="Coffee" src="https://i.imgur.com/k0cyzqb.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/dkc86/"><img width="64px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/7ziNQJ3.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://buymeacoffee.com/devvjs"><img width="64px" alt="buyMeACoffee" title="Coffee" src="https://i.imgur.com/XZy4ksY.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://buymeacoffee.com/devvjs"><img width="64px" alt="buyMeACoffee" title="Coffee" src="https://imgur.com/MGhuaTX.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://buymeacoffee.com/devvjs"><img width="64px" alt="buyMeACoffee" title="Coffee" src="https://imgur.com/MGhuaTX.png"/></a>
+  <a href="https://dev.to/devvjs"><img width="64px" alt="buyMeACoffee" title="Coffee" src="https://i.imgur.com/k0cyzqb.png"/></a>
 </p>
 
 Sources:
