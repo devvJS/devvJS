@@ -26,7 +26,7 @@ I'm a full stack software engineer and aspiring content creator just trying to m
   <!-- <a href=""> -->
 </p>
 
-<!--
+
 **devvJS/devvJS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
