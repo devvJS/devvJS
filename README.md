@@ -17,6 +17,12 @@ I'm a full stack software engineer and aspiring content creator just trying to m
   <a href="https://buymeacoffee.com/devvjs">
     <img width="128px" alt="buyMeACoffee" title="Coffee" src="https://imgur.com/MGhuaTX.png"/>
   </a>
+  <a href="https://buymeacoffee.com/devvjs">
+    <img width="128px" alt="buyMeACoffee" title="Coffee" src="https://imgur.com/MGhuaTX.png"/>
+  </a>
+  <a href="https://buymeacoffee.com/devvjs">
+    <img width="128px" alt="buyMeACoffee" title="Coffee" src="https://imgur.com/MGhuaTX.png"/>
+  </a>
   <!-- <a href=""> -->
 </p>
 
