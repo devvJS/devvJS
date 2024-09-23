@@ -20,6 +20,8 @@ I'm a full stack software engineer and aspiring content creator just trying to m
   <a href="https://dev.to/devvjs"><img width="32px" alt="buyMeACoffee" title="Coffee" src="https://i.imgur.com/rNBDdF2.png"/></a>
 </p>
 
+---
+
 ### Languages and Tools
 <p align="center">
   <img width="30px" align="left" alt="Javascript" style="padding-right:10px; background-color:#FFDE59;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" >
@@ -45,5 +47,8 @@ I'm a full stack software engineer and aspiring content creator just trying to m
 </p>
 
 <br/>
+
+#
+
 Sources:
 <a href="https://iconscout.com/icons/coffee-cup" class="text-underline font-size-sm" target="_blank">Coffee Cup</a> by <a href="https://iconscout.com/contributors/royyanwijaya" class="text-underline font-size-sm">Royyan Wijaya</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>
