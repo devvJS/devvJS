@@ -17,7 +17,7 @@ I'm a full stack software engineer and aspiring content creator just trying to m
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://buymeacoffee.com/devvjs"><img width="64px" alt="buyMeACoffee" title="Coffee" src="https://i.imgur.com/XZy4ksY.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/devvjs"><img width="64px" alt="buyMeACoffee" title="Coffee" src="https://i.imgur.com/k0cyzqb.png"/></a>
+  <a href="https://dev.to/devvjs"><img width="64px" alt="buyMeACoffee" title="Coffee" src="https://i.imgur.com/rNBDdF2.png"/></a>
 </p>
 
 Sources:
