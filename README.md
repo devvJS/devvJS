@@ -21,10 +21,7 @@ I'm a full stack software engineer and aspiring content creator just trying to m
   <a href="https://dev.to/devvjs"><img width="32px" alt="buyMeACoffee" title="Coffee" src="https://i.imgur.com/rNBDdF2.png"/></a>
 </p>
 
----
-
-<h2 align="center" class="section-heading">💻 Languages, Frameworks and Tools</h2>
-<p>Everything below is my backbone, my skeleton, the core foundation to my development process. Ive come a long way since my beginnings and curated these specific technologies to help my further my growth in development.</p>
+#
 <p align="center">
   <a href=""><img width="30px" align="center" alt="Javascript" style="padding-right:10px; background-color:#FFDE59;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"></a>
   <a href=""><img width="30px" align="center" alt="React" style="padding-right:10px; background-color:#FFDE59;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"></a>
@@ -43,6 +40,12 @@ I'm a full stack software engineer and aspiring content creator just trying to m
   <a href=""><img width="30px" align="center" alt="AfterEffects" style="padding-right:10px; background-color:#FFDE59;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg"></a>
   <a href=""><img width="30px" align="center" alt="Illustrator" style="padding-right:10px; background-color:#FFDE59;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg"></a>
 </p>
+
+---
+
+<h2 align="center" class="section-heading">💻 Languages, Frameworks and Tools</h2>
+<p>Everything below is my backbone, my skeleton, the core foundation to my development process. Ive come a long way since my beginnings and curated these specific technologies to help my further my growth in development.</p>
+
 
 <br/>
 
