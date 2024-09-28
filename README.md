@@ -24,10 +24,8 @@ I'm a full stack software engineer and aspiring content creator just trying to m
 ---
 
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Amatic+SC&weight=700&size=32&pause=1000&color=FFDE59&center=true&width=435&lines=Languages+and+Tools;" alt="Typing SVG" /></a>
-</p>
-<p align="center">
+ <h2 align="center" class="section-heading">💻 Languages, Frameworks and Tools</h2>
+<p>Everything below is my backbone, my skeleton, the core foundation to my development process. Ive come a long way since my beginnings and curated these specific technologies to help my further my growth in development.</p>
   <a href=""><img width="30px" align="center" alt="Javascript" style="padding-right:10px; background-color:#FFDE59;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"></a>
   <a href=""><img width="30px" align="center" alt="React" style="padding-right:10px; background-color:#FFDE59;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"></a>
  <a href=""><img width="30px" align="center" alt="Angular" style="padding-right:10px; background-color:#FFDE59;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" /></a>
