@@ -30,6 +30,7 @@ I'm a full stack software engineer and aspiring content creator just trying to m
 <p align="center">
   <a href=""><img width="30px" align="center" alt="Javascript" style="padding-right:10px; background-color:#FFDE59;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"></a>
   <a href=""><img width="30px" align="center" alt="React" style="padding-right:10px; background-color:#FFDE59;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"></a>
+ <a href=""><img width="30px" align="center" alt="Angular" style="padding-right:10px; background-color:#FFDE59;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" /></a>
   <a href=""><img width="30px" align="center" alt="Cypress" style="padding-right:10px; background-color:#FFDE59;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg"></a>
   <a href=""><img width="30px" align="center" alt="postgresQl" style="padding-right:10px; background-color:#FFDE59;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg"></a>
   <a href=""><img width="30px" align="center" alt="graphQL" style="padding-right:10px; background-color:#FFDE59;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg"></a>
@@ -37,7 +38,6 @@ I'm a full stack software engineer and aspiring content creator just trying to m
   <a href=""><img width="30px" align="center" alt="Css" style="padding-right:10px; background-color:#FFDE59;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"></a>
   <a href=""><img width="30px" align="center" alt="Sass" style="padding-right:10px; background-color:#FFDE59;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"></a>
   <a href=""><img width="30px" align="center" alt="Git" style="padding-right:10px; background-color:#FFDE59;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg"></a>
-  <a href=""><img width="30px" align="center" alt="Github" style="padding-right:10px; background-color:#FFDE59;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"></a>
   <a href=""><img width="30px" align="center" alt="Bitbucket" style="padding-right:10px; background-color:#FFDE59;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg"></a>
   <a href=""><img width="30px" align="center" alt="Jira" style="padding-right:10px; background-color:#FFDE59;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg"></a>
   <a href=""><img width="30px" align="center" alt="Confluence" style="padding-right:10px; background-color:#FFDE59;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-plain.svg"></a>
