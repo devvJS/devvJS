@@ -1,3 +1,4 @@
+ <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Amatic+SC&weight=700&size=32&pause=1000&color=FFDE59&center=true&width=435&lines=Dad%2FDeveloper%2FCoffee+nerd;Five+years+of+development+experience;I+hyperfocus+on+the+things+that+I+love" alt="Typing SVG" /></a>
