@@ -98,19 +98,11 @@ I'm a full stack software engineer and aspiring content creator just trying to m
 <div align="center">
  <h2 align="center" class="section-heading">📈 Version Control, VC Tools and Editors</h2>
 <p>I had to start fresh with this github but stay tuned, My stats will be back up and looking good in no time.</p>
-    <table align="center" width="100%" height="100%" >
+<table align="center" width="100%" height="100%" >
     <tr>
-       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devvJS&theme=github_dark" alt="devvJS's GitHub Stats"/></td>   
-       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=devvJS&theme=merko" alt="devvJS's Contribution Streak"/></td>
-    </tr>
- </table>
-
- <table align="center" width="100%" height="100%" >
-    <tr>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devvJS&theme=github_dark" alt="devvJS's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devvJS&theme=github_dark&utcOffset=10" alt="devvJS's GitHub Stats"/>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devvJS&theme=github_dark" alt="devvJS's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devvJS&theme=github_dark" alt="devvJS's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-readme-stats.vercel.app/api?username=devvJS&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="devvJS's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=devvJS&theme=dark&hide_border=true" alt="devvJS's GitHub Stats"/>
+        <td><img style="border: none;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devvJS&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="devvJS's GitHub Stats"/></td>
     </tr>
  </table>
 </div>
